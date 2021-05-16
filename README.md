@@ -11,3 +11,5 @@ List of projects within AWS workshop as follows;
 004-phonebook-web-application
 
 005-kittens-carousel-static-web-s3-cf
+
+006_Blog-Page-App-Django-on-AWS-Environment
